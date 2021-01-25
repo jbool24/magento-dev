@@ -1,3 +1,4 @@
+.env
 .buildpath
 .cache
 .DS_Store
@@ -5,6 +6,7 @@
 .metadata
 .project
 .settings
+./**/.credentials
 *.log
 *.sql.gz
 *.tar.gz
